@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipanshu Mishra</h1>
-<h3 align="center">A passionate frontend developer from India who's keen to learn and develop new stuff everyday!!</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India who's keen to learn and develop new stuff everyday!!</h3>
 
 <img align="right" alt="Coding-Img" widhth="100%" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu0612&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu0612" /> </p>
